@@ -1,0 +1,14 @@
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\bin\Debug\net9.0\Opgaver.exe
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\bin\Debug\net9.0\Opgaver.deps.json
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\bin\Debug\net9.0\Opgaver.runtimeconfig.json
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\bin\Debug\net9.0\Opgaver.dll
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\bin\Debug\net9.0\Opgaver.pdb
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\obj\Debug\net9.0\Opgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\obj\Debug\net9.0\Opgaver.AssemblyInfoInputs.cache
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\obj\Debug\net9.0\Opgaver.AssemblyInfo.cs
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\obj\Debug\net9.0\Opgaver.csproj.CoreCompileInputs.cache
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\obj\Debug\net9.0\Opgaver.dll
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\obj\Debug\net9.0\refint\Opgaver.dll
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\obj\Debug\net9.0\Opgaver.pdb
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\obj\Debug\net9.0\Opgaver.genruntimeconfig.cache
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\obj\Debug\net9.0\ref\Opgaver.dll
