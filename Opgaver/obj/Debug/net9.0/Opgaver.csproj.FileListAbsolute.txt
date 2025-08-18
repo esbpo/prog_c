@@ -12,3 +12,4 @@ C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\obj
 C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\obj\Debug\net9.0\Opgaver.pdb
 C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\obj\Debug\net9.0\Opgaver.genruntimeconfig.cache
 C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\obj\Debug\net9.0\ref\Opgaver.dll
+C:\Users\Esben\OneDrive - TEC\Documents\H.C.Ø Noter\Programmering C\Opgaver\obj\Debug\net9.0\Opgaver.sourcelink.json
