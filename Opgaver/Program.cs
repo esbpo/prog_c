@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography;
 
-string task = "ekstra11b"; // Skift til opgaven der skal køres
+string task = "csharp3"; // Skift til opgaven der skal køres
 Console.Clear();
 Console.BackgroundColor = ConsoleColor.Black;
 Console.ForegroundColor = ConsoleColor.White;
